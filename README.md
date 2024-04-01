@@ -1,4 +1,4 @@
-# Advertisement Insights - Logistic Regression
+# Advertisement Clicks Predictions - Logistic Regression
 
 ## Project Overview
 This project provides insights from a fake advertising data set. **The primary objective is to build a model that will predict whether or not they will click on an ad based off the features of that user.** 
